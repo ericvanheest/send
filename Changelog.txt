@@ -1,0 +1,46 @@
+v1.39
+
+Added -t option for timeout
+
+v1.40
+
+Made -r apply to classname as well
+Allow blank app name to mean "any caption"
+
+v1.41
+
+Re-integrated report changes from quad
+
+v1.42
+
+Added math functions to global.cpp
+Added o1 and o2 as variables for original mouse position
+Added w2, h2 and etc. for multi-monitor support
+
+v1.43
+
+?
+
+v1.44
+
+Fixed unsigned-long "0x"-prefixed integers
+
+v1.45
+
+Allow usage of o1, o2, etc in window message arguments
+
+v1.47
+
+Added usage of text with -i option (e.g. "send -i 'Apply' ...")
+
+v1.51
+
+Added common scan codes and -D option, changed behavior of -S option
+
+v1.52
+
+Added -F option
+
+v1.53
+
+Added -V options

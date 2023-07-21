@@ -1,0 +1,6 @@
+LIBRARY	SendDLL
+
+EXPORTS
+    ; Explicit exports can go here
+	CallSend
+

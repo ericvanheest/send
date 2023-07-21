@@ -1,0 +1,3 @@
+- the bottom-right-based (or general) window positioning could work around the taskbar width/height
+- Some method of using DI or WM to simulate keys for games that don't use normal keyboard input
+- Set the key modifiers in '-M' mode properly for the messages
